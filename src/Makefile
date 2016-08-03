@@ -23,6 +23,7 @@
 #
 # IBM_PROLOG_END_TAG
 
+#MATT trace master-p8 branch
 ifndef ROOTPATH
 ROOTPATH = $(shell pwd)
 export OCCROOT = $(ROOTPATH)
